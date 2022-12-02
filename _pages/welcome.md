@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/welcome/splash.jpg
   actions:
     - label: "Download CV"
-      url: "https://dl.dropboxusercontent.com/s/pw2u6pkcec63ekj/public_resume.pdf"
+      url: "https://dl.dropboxusercontent.com/s/pw2u6pkcec63ekj/vinicius_santos.pdf"
   caption: "[Nightfall](https://www.shadertoy.com/view/MlfXWH)" 
   
 excerpt: "This is my personal website. You will find my blog, research papers, and teaching material. Feel free to browse around."
