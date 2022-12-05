@@ -5,7 +5,7 @@ date: 2018-04-21
 categories: blog
 tags: [math, unity]
 header:
-  teaser: /assets/expsmooth/teaser.png
+  teaser: /assets/blog/expsmooth/teaser.png
 ---
 
 I did a lot of bug fixing in legacy code that uses the [Unity Engine](https://unity3d.com/), and I noticed an odd pattern being used for moving [GameObjects](https://docs.unity3d.com/Manual/class-GameObject.html) towards a target position.

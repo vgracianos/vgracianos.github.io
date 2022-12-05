@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/vgracianos"
 
-footer_scripts:
+after_footer_scripts:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
 
 encoding: "utf-8"
